@@ -1,1 +1,1 @@
-../../.openshift/lib/session_store.rb
+load ".openshift/lib/session_store.rb"

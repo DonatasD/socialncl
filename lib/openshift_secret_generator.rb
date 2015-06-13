@@ -1,1 +1,1 @@
-../.openshift/lib/openshift_secret_generator.rb
+load ".openshift/lib/openshift_secret_generator.rb"
